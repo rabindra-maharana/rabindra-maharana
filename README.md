@@ -77,4 +77,4 @@ An accomplished **Enterprise Operations Leader & Cloud Architect** with 17+ year
 ---
 
 ## 🔗 Connect & Verify Credentials
-🌐 **[LinkedIn Profile](https://linkedin.com)** | 🎖️ **[Credly Professional Badges](https://credly.com)** | 📄 **[Official Microsoft Transcript](https://microsoft.com)**
+🌐 **[LinkedIn Profile](https://www.linkedin.com/in/rabindra-maharana/)** | 🎖️ **[Credly Professional Badges](https://www.credly.com/users/rabindra-maharana/badges#credly)** | 📄 **[Official Microsoft Transcript](https://learn.microsoft.com/en-gb/users/rabindramaharana-3175/transcript?tab=credentials-tab)**
