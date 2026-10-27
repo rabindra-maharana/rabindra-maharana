@@ -1,7 +1,9 @@
 # Hi, I'm Rabindra Maharana 👋
-### Program Leader | Enterprise Cloud Solutions Architect & DevOps Expert
-
-An accomplished **Enterprise Operations Leader & Cloud Architect** with 17+ years of global experience managing large-scale cross-functional systems at CPF India. Fuses a powerhouse academic matrix (**MCA, MBA, MSc**) with PMP® and Six Sigma Black Belt precision to transition traditional business infrastructures into secure, scalable, and automated cloud-native realities. Expert at reducing technical complexity, accelerating DevOps pipelines, and implementing ironclad security governance.
+> 🎯 **Executive Snapshot:** 
+> * **Academic Baseline:** MCA | MBA | MSc
+> * **Management Mastery:** PMP® Certified | Certified Lean Six Sigma Black Belt (Process Optimization & TCO Reduction)
+> * **Technical Leadership:** Azure Solutions Architect Expert (AZ-305) | Azure DevOps Engineer Expert (AZ-400) | Cybersecurity Architect Expert (SC-100)
+> * **Enterprise Background:** 17+ Years of cross-functional industrial operations deployment leadership (CPF India).
 
 ---
 
