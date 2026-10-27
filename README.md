@@ -1,17 +1,18 @@
 # Hi, I'm Rabindra Maharana 👋
-> 🎯 **Executive Snapshot:** 
-> * **Academic Baseline:** MCA | MBA | MSc
-> * **Management Mastery:** PMP® Certified | Certified Lean Six Sigma Black Belt (Process Optimization & TCO Reduction)
-> * **Technical Leadership:** Azure Solutions Architect Expert (AZ-305) | Azure DevOps Engineer Expert (AZ-400) | Cybersecurity Architect Expert (SC-100)
-> * **Enterprise Background:** 17+ Years of cross-functional industrial operations deployment leadership (CPF India).
+> 🎯 **Executive Snapshot:** 17+ Years of cross-functional industrial operations deployment leadership at CPF India (2006–2023), currently leveraging deep operational expertise to engineer scalable, secure cloud environments.
+> 
+> 🔄 **Career Transformation:** Actively pivoting from core industrial operations to advanced Cloud Tech & DevOps (2023–Present). Successfully bridged the gap through aggressive technical reskilling, mastering enterprise architecture, and securing 6x Microsoft Azure credentials.
 
----
+## 🏆 Professional Certifications
 
-## 🎖️ Flagship Cloud Operations Program
-* **Cloud and DevOps Career Program:** CloudThat (Graduated: June 2025) 
-  * A intensive 6-month hands-on training track covering multi-cloud solution design, enterprise-scale automated environments, container coordination platforms, and robust infrastructure lifecycle strategies.
-
----
+| Cloud Architecture & Security | Management & Strategy |
+| :--- | :--- |
+| ☁️ **AZ-305**: Azure Solutions Architect Expert | 🥇 **PMP®** Certified |
+| 🚀 **AZ-400**: Azure DevOps Engineer Expert | 🥋 **Certified Lean Six Sigma Black Belt** |
+| 🛡️ **SC-100**: Azure Cybersecurity Architect Expert | *(Process Optimization & TCO Reduction)* |
+| 🌐 **AZ-700**: Azure Network Engineer | |
+| ⚙️ **AZ-104**: Azure Administrator | |
+| 🔍 **SC-200**: Azure Security Operations | |
 
 ## 🎓 Multi-Domain Academic Foundation
 
@@ -22,14 +23,10 @@
 * **🔬 Scientific Analytics:** Master of Science (**MSc**) | Berhampur University  
   * *Focus:* Advanced quantitative research methods, analytical problem-solving, and data validation frameworks.
 
----
 
-## 🛠️ Core Certifications & Competencies
-
-* **🏆 Cloud Architecture:** Microsoft Certified: Azure Solutions Architect Expert (**AZ-305**) | Azure Administrator (**AZ-104**) | AWS Solutions Architect Associate
-* **♾️ DevOps & Containers:** Microsoft Certified: Azure DevOps Engineer Expert (**AZ-400**) | Cloud DevOps Expert | GitHub Foundation
-* **🔒 Security & Governance:** Microsoft Certified: Cybersecurity Architect Expert (**SC-100**) | Security Operations Analyst (**SC-200**)
-* **📈 Project Management:** PMP® (Project Management Professional) | Certified Lean Six Sigma Black Belt
+## 💼 Flagship Cloud Operations Program
+* **Cloud and DevOps Career Program:** CloudThat (Graduated: June 2025)
+  * An intensive 6-month hands-on training track covering multi-cloud solution design, enterprise-scale automated environments, container coordination platforms, and robust infrastructure lifecycle strategies.
 
 ---
 
