@@ -1,13 +1,9 @@
 # Hi, I'm Rabindra Maharana 👋
 
-<div style="border-left: 4px solid #2188ff; padding-left: 15px; margin: 20px 0;">
-  <p style="color: #000000; font-size: 15px; margin-bottom: 12px;">
-    🎯 <strong>Executive Snapshot:</strong> 17+ Years of cross-functional industrial operations deployment leadership at CPF India (2006–2023), currently leveraging deep operational expertise to engineer scalable, secure cloud environments.
-  </p>
-  <p style="color: #000000; font-size: 15px; margin-top: 12px;">
-    🔄 <strong>Career Transformation:</strong> Actively pivoting from core industrial operations to advanced Cloud Tech & DevOps (2023–Present). Successfully bridged the gap through aggressive technical reskilling, mastering enterprise architecture, and securing 6x Microsoft Azure credentials.
-  </p>
-</div>
+> [!NOTE]
+> 🎯 **Executive Snapshot:** 17+ Years of cross-functional industrial operations deployment leadership at CPF India (2006–2023), currently leveraging deep operational expertise to engineer scalable, secure cloud environments.
+> 
+> 🔄 **Career Transformation:** Actively pivoting from core industrial operations to advanced Cloud Tech & DevOps (2023–Present). Successfully bridged the gap through aggressive technical reskilling, mastering enterprise architecture, and securing 6x Microsoft Azure credentials.
 
 
 ## 🏆 Professional Certifications
