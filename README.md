@@ -3,7 +3,6 @@
 > 
 > 🔄 **Career Transformation:** **Actively pivoting from core industrial operations to advanced Cloud Tech & DevOps (2023–Present). Successfully bridged the gap through aggressive technical reskilling, mastering enterprise architecture, and securing 6x Microsoft Azure credentials**.
 
-
 ## 🏆 Professional Certifications
 
 | Cloud Architecture & Security | Management & Strategy |
@@ -15,6 +14,17 @@
 | ⚙️ **AZ-104**: Azure Administrator | |
 | 🔍 **SC-200**: Azure Security Operations | |
 
+## 🚀 Microsoft Learn Student Ambassador Initiative
+
+As part of my MLSA community milestone, I have curated a high-impact, beginner-friendly cloud learning roadmap to help students break into tech:
+
+👉 **[Click Here to Launch the Zero-to-Cloud Tech Blueprint](https://bit.ly/ZeroToCloud2027)**
+
+**What this 4-hour structured sequence covers:**
+* ☁️ **Azure Basics** – Global infrastructure & core cloud architecture mechanics.
+* 🔧 **Git & Version Control** – Real-world code collaboration using GitHub lifecycles.
+* ⚡ **Cloud Automation** – Practical, hands-on environment scripting with free sandboxes.
+---
 ## 🎓 Multi-Domain Academic Foundation
 
 * **💻 Computer Applications:** Master of Computer Applications (**MCA**) | IGNOU (Class of 2026)  
@@ -24,13 +34,10 @@
 * **🔬 Scientific Analytics:** Master of Science (**MSc**) | Berhampur University  
   * *Focus:* Advanced quantitative research methods, analytical problem-solving, and data validation frameworks.
 
-
 ## 💼 Flagship Cloud Operations Program
 * **Cloud and DevOps Career Program:** CloudThat (Graduated: June 2025)
   * An intensive 6-month hands-on training track covering multi-cloud solution design, enterprise-scale automated environments, container coordination platforms, and robust infrastructure lifecycle strategies.
-
 ---
-
 ## 📂 Featured Enterprise & Production Projects
 
 ### 🎓 1. Cloud-Based Online Learning Management System (LMS) — MCA Capstone
@@ -49,9 +56,7 @@
 ### 🌐 3. eShopOnWeb Enterprise Cloud Migration (`/eShopOnWeb`)
 * **Description:** Deployed, managed, and optimized the deployment lifecycle patterns of a modular, multi-tier .NET Core enterprise application engine.
 * **Status:** *Structuring structural configuration patterns.*
-
 * ---
-
 ## 📂 Enterprise Program Management & Strategic Projects (CPF India)
 
 ### 🌍 1. Aqua Corporate Revamp – Khulna, Bangladesh (2018)
@@ -65,16 +70,12 @@
 * **Situation:** Significant operational skill gaps and workflow bottlenecks at a remote international aqua operations facility.
 * **Action:** Standardized complex multi-tier workflows, applied rigorous Lean Six Sigma methodologies, and orchestrated cross-functional training tracks for local teams.
 * **Impact:** **Delivered a 20% operational cost reduction**, scaled daily throughput capacity, and established a benchmark framework for successful offshore collaboration.
-
 ---
-
 ## 🧪 Active Technical Labs & Research Track
 
 ### ☸️ Cloud-Native Engineering & Service Orchestration
 * **Current Focus:** Certified Kubernetes Application Developer (CKAD) path. Running infrastructure automation configurations involving Docker image optimization, complex Pod manifest engineering, persistent volume configuration, and declarative networking boundaries inside multi-node clusters.
 * **Execution Engines:** KodeKloud | Whizlabs Cloud Architecture labs.
-
 ---
-
 ## 🔗 Connect & Verify Credentials
 🌐 **[LinkedIn Profile](https://www.linkedin.com/in/rabindra-maharana/)** | 🎖️ **[Credly Professional Badges](https://www.credly.com/users/rabindra-maharana/badges#credly)** | 📄 **[Official Microsoft Transcript](https://learn.microsoft.com/en-gb/users/rabindramaharana-3175/transcript?tab=credentials-tab)**
