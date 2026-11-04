@@ -14,7 +14,7 @@
 | ⚙️ **AZ-104**: Azure Administrator | |
 | 🔍 **SC-200**: Azure Security Operations | |
 
-## 🚀 Microsoft Learn Student Ambassador Initiative
+## 🚀 Microsoft Learn Student Ambassador Initiative (MLSA)
 
 As part of my MLSA community milestone, I have curated a high-impact, beginner-friendly cloud learning roadmap to help students break into tech:
 
